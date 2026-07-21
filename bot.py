@@ -30,13 +30,10 @@ NUM_ACCOUNTS = int(os.environ.get("NUM_ACCOUNTS", "0"))  # 0 = usa account fissi
 # ACCOUNT FISSI (CREATI MANUALMENTE) - 10 ACCOUNT
 # ============================================================
 ACCOUNTS = [
-    # === ACCOUNT ESISTENTI (4) ===
-    {"email": "cinziabelli@libero.it", "password": "UV45$!daverm"},
-    {"email": "tatianavialla@gmail.com", "password": "YH$!damare"},
-    {"email": "paologerardi@tiscali.it", "password": "FM65$!davb"},
-    {"email": "eugeniofiorini@libero.it", "password": "FF54$!dama"},
-    
-    # === NUOVI ACCOUNT (6) ===
+    {"email": "cinziacavicchioli@libero.it", "password": "UV45$!daverm"},
+    {"email": "bellimarisa@yahoo.com", "password": "YH$!damare"},
+    {"email": "marcogerardi@yahoo.it", "password": "FM65$!davb"},
+    {"email": "ritagelini@libero.it", "password": "FF54$!dama"},
     {"email": "marianna.bianchi@libero.it", "password": "Luna1987!"},
     {"email": "roberto.mancini@tiscali.it", "password": "Monte1992!"},
     {"email": "elena.giordano@gmail.com", "password": "Stella2001!"},
